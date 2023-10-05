@@ -6,8 +6,8 @@
 1. Fundamentos da Plataforma Java
     - [x] Introdução à Plataforma Java
     - [x] Ambiente de Desenvolvimento
-    - [] Aprendendo a Sintaxe Java
-    - [] Resolvendo desafios - Fundamentos da Linguagem de Programação Java
+    - [x] Aprendendo a Sintaxe Java
+    - [x] Resolvendo desafios - Fundamentos da Linguagem de Programação Java
     - [] Desafio de Projeto - Simulando Uma Conta Bancária Através do Terminal/Console
 2. Escopo e Estruturas de Controle em Java
     - [] Introdução e Estruturas Condicionais com Java
