@@ -7,7 +7,7 @@
     - [x] Introdução à Plataforma Java
     - [x] Ambiente de Desenvolvimento
     - [x] Aprendendo a Sintaxe Java
-    - [x] Resolvendo desafios - Fundamentos da Linguagem de Programação Java
+    - [x] [Resolvendo desafios de código - Fundamentos da Linguagem de Programação Java](https://github.com/KayllaneGPina/formacao-java-developer/tree/main/Desafios%20de%20Codigo)
     - [] Desafio de Projeto - Simulando Uma Conta Bancária Através do Terminal/Console
 2. Escopo e Estruturas de Controle em Java
     - [] Introdução e Estruturas Condicionais com Java
