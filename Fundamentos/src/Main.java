@@ -1,5 +1,3 @@
-package anatomiaDasClasses;
-
 // Classe
 public class Main {
     // Método 1
