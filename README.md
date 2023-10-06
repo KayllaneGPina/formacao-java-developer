@@ -8,7 +8,7 @@
     - [x] Ambiente de Desenvolvimento
     - [x] Aprendendo a Sintaxe Java
     - [x] [Resolvendo desafios de código - Fundamentos da Linguagem de Programação Java](https://github.com/KayllaneGPina/formacao-java-developer/tree/main/Desafios%20de%20Codigo)
-    - [] Desafio de Projeto - Simulando Uma Conta Bancária Através do Terminal/Console
+    - [x] [Desafio de Projeto - Simulando Uma Conta Bancária Através do Terminal/Console](https://github.com/KayllaneGPina/formacao-java-developer/tree/main/Desafio%20de%20Projeto)
 2. Escopo e Estruturas de Controle em Java
     - [] Introdução e Estruturas Condicionais com Java
     - [] Estruturas de Repetição em Java
