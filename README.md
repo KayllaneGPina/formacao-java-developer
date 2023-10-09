@@ -10,7 +10,7 @@
     - [x] [Resolvendo desafios de código - Fundamentos da Linguagem de Programação Java](https://github.com/KayllaneGPina/formacao-java-developer/tree/main/Desafios%20de%20Codigo)
     - [x] [Desafio de Projeto - Simulando Uma Conta Bancária Através do Terminal/Console](https://github.com/KayllaneGPina/formacao-java-developer/tree/main/Desafio%20de%20Projeto)
 2. Escopo e Estruturas de Controle em Java
-    - [] Introdução e Estruturas Condicionais com Java
+    - [x] Introdução e Estruturas Condicionais com Java
     - [] Estruturas de Repetição em Java
     - [] Java e Tratamento de Exceções
     - [] Resolvendo desafios - Escopo e Estruturas de Controle em Java
