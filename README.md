@@ -14,7 +14,7 @@
     - [x] Estruturas de Repetição em Java
     - [x] Java e Tratamento de Exceções
     - [x] [Resolvendo desafios - Escopo e Estruturas de Controle em Java](https://github.com/KayllaneGPina/formacao-java-developer/tree/main/Desafios%20de%20Codigo)
-    - [] Desafio de Projeto - Criando um Pequeno Sistema Para Validação de Processo Seletivo
+    - [x] [Desafio de Projeto - Desafio Contrle de Fluxo](https://github.com/KayllaneGPina/formacao-java-developer/tree/main/Desafio%20de%20Projeto/src/DesafioControleFluxo)
 3. Programação Orientada a Objetos em Java
     - [] Fundamentos da Programação Orientada a Objetos com Java
     - [] Pilares da Programação Orientada a Objetos em Java
