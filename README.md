@@ -17,7 +17,7 @@
     - [x] [Desafio de Projeto - Desafio Contrle de Fluxo](https://github.com/KayllaneGPina/formacao-java-developer/tree/main/Desafio%20de%20Projeto/src/DesafioControleFluxo)
 3. Programação Orientada a Objetos em Java
     - [x] Fundamentos da Programação Orientada a Objetos com Java
-    - [] Pilares da Programação Orientada a Objetos em Java
+    - [x] Pilares da Programação Orientada a Objetos em Java
     - [] Desafio de Projeto - Orientação a Objetos e UML: Diagramação de Classes do iPhone
     - [] Desafio de Projeto - Criando um Banco Digital com Java e Orientação a Objetos
 4. Estrutura de Dados e API de Streams em Java
