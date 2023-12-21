@@ -21,7 +21,7 @@
     - [] Desafio de Projeto - Orientação a Objetos e UML: Diagramação de Classes do iPhone
     - [] Desafio de Projeto - Criando um Banco Digital com Java e Orientação a Objetos
 4. Estrutura de Dados e API de Streams em Java
-    - [] Estrutura de Dados em Java: Introdução
+    - [x] Estrutura de Dados em Java: Introdução
     - [] Estrutura de Dados em Java: Pilhas e Filas
     - [] Estrutura de Dados em Java: Listas
     - [] Estrutura de Dados em Java: Árvores
