@@ -22,7 +22,7 @@
     - [x] [Desafio de Projeto - Criando um Banco Digital com Java e Orientação a Objetos](https://github.com/KayllaneGPina/formacao-java-developer/tree/main/Desafio%20de%20Projeto/src/BancoDigitalJavaPoo)
 4. Estrutura de Dados e API de Streams em Java
     - [x] Estrutura de Dados em Java: Introdução
-    - [] Estrutura de Dados em Java: Pilhas e Filas
+    - [x] Estrutura de Dados em Java: Pilhas e Filas
     - [] Estrutura de Dados em Java: Listas
     - [] Estrutura de Dados em Java: Árvores
     - [] Estrutura de Dados em Java: Principais Implementações
