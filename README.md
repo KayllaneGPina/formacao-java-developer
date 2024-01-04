@@ -23,7 +23,7 @@
 4. Estrutura de Dados e API de Streams em Java
     - [x] Estrutura de Dados em Java: Introdução
     - [x] Estrutura de Dados em Java: Pilhas e Filas
-    - [] Estrutura de Dados em Java: Listas
+    - [x] Estrutura de Dados em Java: Listas
     - [] Estrutura de Dados em Java: Árvores
     - [] Estrutura de Dados em Java: Principais Implementações
     - [] Trabalhando com Collections Java
