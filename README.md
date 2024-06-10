@@ -18,7 +18,7 @@
 3. Programação Orientada a Objetos em Java
     - [x] Fundamentos da Programação Orientada a Objetos com Java
     - [x] Pilares da Programação Orientada a Objetos em Java
-    - [] Desafio de Projeto - Orientação a Objetos e UML: Diagramação de Classes do iPhone
+    - [x] [Desafio de Projeto - Orientação a Objetos e UML: Diagramação de Classes do iPhone](https://github.com/KayllaneGPina/formacao-java-developer/tree/main/Desafio%20de%20Projeto/src/Iphone)
     - [x] [Desafio de Projeto - Criando um Banco Digital com Java e Orientação a Objetos](https://github.com/KayllaneGPina/formacao-java-developer/tree/main/Desafio%20de%20Projeto/src/BancoDigitalJavaPoo)
 4. Estrutura de Dados e API de Streams em Java
     - [x] Estrutura de Dados em Java: Introdução
