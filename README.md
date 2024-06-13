@@ -25,7 +25,7 @@
     - [x] Estrutura de Dados em Java: Pilhas e Filas
     - [x] Estrutura de Dados em Java: Listas
     - [x] Estrutura de Dados em Java: Árvores
-    - [] Estrutura de Dados em Java: Principais Implementações
+    - [x] Estrutura de Dados em Java: Principais Implementações
     - [] Trabalhando com Collections Java
     - [] Desafio de Projeto - Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 5. Gerenciamento de Dependências e Build em Projetos Java
