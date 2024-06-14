@@ -26,7 +26,7 @@
     - [x] Estrutura de Dados em Java: Listas
     - [x] Estrutura de Dados em Java: Árvores
     - [x] Estrutura de Dados em Java: Principais Implementações
-    - [] Trabalhando com Collections Java
+    - [x] Trabalhando com Collections Java
     - [] Desafio de Projeto - Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 5. Gerenciamento de Dependências e Build em Projetos Java
     - [] Projetos Java com Gradle
