@@ -27,7 +27,7 @@
     - [x] Estrutura de Dados em Java: Árvores
     - [x] Estrutura de Dados em Java: Principais Implementações
     - [x] Trabalhando com Collections Java
-    - [] Desafio de Projeto - Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+    - [x] [Desafio de Projeto - Abstraindo um Bootcamp Usando Orientação a Objetos em Java](https://github.com/KayllaneGPina/formacao-java-developer/tree/main/Desafio%20de%20Projeto/src/DesafioFinalPOO)
 5. Gerenciamento de Dependências e Build em Projetos Java
     - [] Projetos Java com Gradle
     - [] Gerenciamento de Dependências e Build em Java com Maven
