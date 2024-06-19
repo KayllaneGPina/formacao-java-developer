@@ -29,7 +29,7 @@
     - [x] Trabalhando com Collections Java
     - [x] [Desafio de Projeto - Abstraindo um Bootcamp Usando Orientação a Objetos em Java](https://github.com/KayllaneGPina/formacao-java-developer/tree/main/Desafio%20de%20Projeto/src/DesafioFinalPOO)
 5. Gerenciamento de Dependências e Build em Projetos Java
-    - [] Projetos Java com Gradle
+    - [x] Projetos Java com Gradle
     - [] Gerenciamento de Dependências e Build em Java com Maven
 6. Qualidade de Códgio e Boas Práticas com Java
     - [] Debbuging Java
