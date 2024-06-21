@@ -32,18 +32,18 @@
     - [x] Projetos Java com Gradle
     - [x] Gerenciamento de Dependências e Build em Java com Maven
 6. Qualidade de Códgio e Boas Práticas com Java
-    - [] Debbuging Java
-    - [] Tratamento de Exceções em Java
-    - [] Entrada e Saída de Arquivos (I/O) em Java
-    - [] Aprenda sobre S.O.L.I.D. com Java
-    - [] Introdução a Testes de Software
-    - [] Testes Unitários com JUnit
-    - [] Desenvolvendo Teste Utilizando Mockito
+    - [ ] Debbuging Java
+    - [ ] Tratamento de Exceções em Java
+    - [ ] Entrada e Saída de Arquivos (I/O) em Java
+    - [ ] Aprenda sobre S.O.L.I.D. com Java
+    - [ ] Introdução a Testes de Software
+    - [ ] Testes Unitários com JUnit
+    - [ ] Desenvolvendo Teste Utilizando Mockito
 7. Conhecendo o Spring Framework
-    - [] Principais Protocolos de Comunicação da Internet
-    - [] Imersão no Spring Framework com Spring Boot
-    - [] Criando uma API REST Documentada com Spring Web Swagger
-    - [] Adicionando Segurança a uma API REST com Spring Security
-    - [] Desafio de Projeto - Explorando Padrões de Projetos na Prática com Java
-    - [] Desafio de Projeto - Conhecendo Spring Data JPA na prática com Java
+    - [ ] Principais Protocolos de Comunicação da Internet
+    - [ ] Imersão no Spring Framework com Spring Boot
+    - [ ] Criando uma API REST Documentada com Spring Web Swagger
+    - [ ] Adicionando Segurança a uma API REST com Spring Security
+    - [ ] Desafio de Projeto - Explorando Padrões de Projetos na Prática com Java
+    - [ ] Desafio de Projeto - Conhecendo Spring Data JPA na prática com Java
 
