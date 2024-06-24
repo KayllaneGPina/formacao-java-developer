@@ -32,7 +32,7 @@
     - [x] Projetos Java com Gradle
     - [x] Gerenciamento de Dependências e Build em Java com Maven
 6. Qualidade de Códgio e Boas Práticas com Java
-    - [ ] Debbuging Java
+    - [x] Debbuging Java
     - [ ] Tratamento de Exceções em Java
     - [ ] Entrada e Saída de Arquivos (I/O) em Java
     - [ ] Aprenda sobre S.O.L.I.D. com Java
