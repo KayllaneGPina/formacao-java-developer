@@ -37,7 +37,7 @@
     - [ ] Entrada e Saída de Arquivos (I/O) em Java
     - [ ] Aprenda sobre S.O.L.I.D. com Java
     - [ ] Introdução a Testes de Software
-    - [ ] Testes Unitários com JUnit
+    - [x] Testes Unitários com JUnit
     - [ ] Desenvolvendo Teste Utilizando Mockito
 7. Conhecendo o Spring Framework
     - [ ] Principais Protocolos de Comunicação da Internet
