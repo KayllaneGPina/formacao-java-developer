@@ -44,6 +44,6 @@
     - [ ] Imersão no Spring Framework com Spring Boot
     - [ ] Criando uma API REST Documentada com Spring Web Swagger
     - [ ] Adicionando Segurança a uma API REST com Spring Security
-    - [ ] Desafio de Projeto - Explorando Padrões de Projetos na Prática com Java
+    - [x] [Desafio de Projeto - Explorando Padrões de Projetos na Prática com Java](https://github.com/KayllaneGPina/formacao-java-developer/tree/main/Desafio%20de%20Projeto/src/design-patterns-lab)
     - [ ] Desafio de Projeto - Conhecendo Spring Data JPA na prática com Java
 
